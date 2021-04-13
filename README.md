@@ -2,6 +2,7 @@
 - 👀 I’m interested in Javascript, Full Stack Development, System Design/Infrastructure Design.
 - 🌱 I’m currently learning Distributed Systems.
 - 💞️ I’m looking to collaborate on Javascript and Node.js projects.
+- 💞️ Checkout my Blog [Medium](https://medium.com/@arneeshaima)
 - 📫 How to reach me -
 
 <p align="center">
