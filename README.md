@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arneesh
-- 👀 I’m interested in Javascript, Full Stack Development, System Design/Infrastructure Design.
+- 👀 I’m interested in Typescript, Python, Full Stack Development, System Design/Infrastructure Design and Artificial Intelligence.
 - 🌱 I’m currently learning Distributed Systems.
-- 💞️ I’m looking to collaborate on Javascript and Node.js projects.
+- 💞️ I’m looking to collaborate on React, Node.js and AI/ML projects.
 - 💞️ Checkout my Blog [Medium](https://medium.com/@arneeshaima)
 - 📫 How to reach me -
 
