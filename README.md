@@ -58,7 +58,7 @@ const arneesh = {
 ## 🌱 Currently Learning
 
 - **Distributed Systems Architecture** - Exploring microservices, event-driven architecture, and system scalability
-- **Advanced AI/ML Techniques** - Deep diving into modern machine learning frameworks - MCP ♥️
+- **Advanced AI/ML Techniques** - Deep diving into modern machine learning frameworks/protocols - MCP ♥️
 - **Cloud Native Technologies** - Kubernetes, serverless architectures, and cloud design patterns
 
 ## 🤝 Let's Collaborate!
