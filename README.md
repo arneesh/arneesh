@@ -57,9 +57,10 @@ const arneesh = {
 
 ## 🌱 Currently Learning
 
-- **Distributed Systems Architecture** - Exploring microservices, event-driven architecture, and system scalability
-- **Advanced AI/ML Techniques** - Deep diving into modern machine learning frameworks/protocols - MCP ♥️
-- **Cloud Native Technologies** - Kubernetes, serverless architectures, and cloud design patterns
+- **Frontiers in AI & Systems Research** – Exploring agentic workflows, neuro-symbolic methods, and scalable model architectures (MCP ❤️)
+- **High-Performance Distributed Systems** – Tinkering with ultra-low-latency consensus, programmable data planes (P4/eBPF), and next-gen coordination protocols
+- **Formal Methods & Verification** – Applying TLA+, model checking, and formal specs to reason about system correctness at scale
+- **Next-Gen Infra Paradigms** – Learning about Unikernels, WASM-based orchestration, and zero-trust multi-tenant environments
 
 ## 🤝 Let's Collaborate!
 
