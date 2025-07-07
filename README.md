@@ -23,6 +23,17 @@ const arneesh = {
             js: ["Node.js", "Express" "koa"],
             python: ["Django", "FastAPI", "Flask"]
         },
+        aiMl: {
+            frameworks: ["Hugging Face", "LangChain", "LlamaIndex"],
+            models: ["GPT", "Claude", "Llama", "Gemini"],
+            vectorDbs: ["Chroma"],
+            tools: ["Ollama", "vLLM", "OpenAI API", "Anthropic API"]
+        },
+        aiAgents: {
+            frameworks: ["CrewAI", "AutoGen", "LangGraph"],
+            orchestration: ["Apache Airflow"],
+            tools: ["RAG", "Tool Use", "Multi-Agent Systems", "MCP Servers"]
+        },
         databases: ["MongoDB", "PostgreSQL", "Redis", "MySQL", "BigQuery", "MongoDB", "Elasticsearch"],
         misc: ["Kubernetes", "Docker", "Cloud Computing", "Git", "Linux"]
     },
