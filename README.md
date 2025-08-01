@@ -17,7 +17,7 @@ const arneesh = {
     technologies: {
         frontEnd: {
             js: ["React", "Next.js", "Vue"],
-            css: ["Tailwind", "Bootstrap", "HeroUI"]
+            design: ["Tailwind", "Bootstrap", "HeroUI", "AntDesign"]
         },
         backEnd: {
             js: ["Node.js", "Express" "koa"],
@@ -34,7 +34,7 @@ const arneesh = {
             orchestration: ["Apache Airflow"],
             tools: ["RAG", "Tool Use", "Multi-Agent Systems", "MCP Servers"]
         },
-        databases: ["MongoDB", "PostgreSQL", "Redis", "MySQL", "BigQuery", "MongoDB", "Elasticsearch"],
+        databases: ["MongoDB", "SQL", "Redis", "BigQuery", "MongoDB", "Elasticsearch"],
         misc: ["Kubernetes", "Docker", "Cloud Computing", "Git", "Linux"]
     },
     currentFocus: "Building scalable distributed systems",
