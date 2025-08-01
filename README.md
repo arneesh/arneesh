@@ -86,10 +86,9 @@ I'm always excited to work on innovative projects, especially those involving:
 
 <!-- BLOG-POST-LIST:START -->
 Check out my thoughts and tutorials on [Medium](https://medium.com/@arneeshaima) where I share insights about:
-- Full Stack Development Best Practices
-- System Design Principles
-- AI/ML Implementation Guides
-- Tech Career Growth Tips
+- Full Stack Development
+- System Design
+- Cloud Computing
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ## 📊 GitHub Stats
