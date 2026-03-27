@@ -38,7 +38,7 @@ const arneesh = {
         misc: ["Kubernetes", "Docker", "Cloud Computing", "Git", "Linux"]
     },
     currentFocus: "Building scalable distributed systems",
-    funFact: "I debug with console.log and I'm not ashamed! 🐛"
+    funFact: "Sometimes I debug with console.log and I'm not ashamed!"
 };
 ```
 
@@ -66,21 +66,12 @@ const arneesh = {
 
 </div>
 
-## 🌱 Currently Learning
+## 🤝 What I work on
 
-- **Frontiers in AI & Systems Research** – Exploring agentic workflows, neuro-symbolic methods, and scalable model architectures (MCP ❤️)
-- **High-Performance Distributed Systems** – Tinkering with ultra-low-latency consensus, programmable data planes (P4/eBPF), and next-gen coordination protocols
-- **Formal Methods & Verification** – Applying TLA+, model checking, and formal specs to reason about system correctness at scale
-- **Next-Gen Infra Paradigms** – Learning about Unikernels, WASM-based orchestration, and zero-trust multi-tenant environments
-
-## 🤝 Let's Collaborate!
-
-I'm always excited to work on innovative projects, especially those involving:
-
-- 🌐 **Full Stack Applications** - React, Node.js, and modern web technologies
-- 🤖 **AI/ML Projects** - Machine learning, data science, and intelligent systems
-- 🏗️ **System Design** - Scalable architectures and distributed systems
-- 📱 **Open Source Contributions** - Contributing to the developer community
+- Full Stack Engineering — React frontends, Node.js backends, serverless architectures — end-to-end ownership from API design to deployment
+- Platform & Infrastructure — building the systems that let engineering teams move fast without breaking things
+- AI/ML Systems — production-grade agentic pipelines, RAG infrastructure, multi-model orchestration
+- Distributed Architecture — high-scale, fault-tolerant systems designed for the long term
 
 ## 📝 Latest Blog Posts
 
@@ -117,7 +108,7 @@ Check out my thoughts and tutorials on [Medium](https://medium.com/@arneeshaima)
 
 <div align="center">
   
-**💼 Open to opportunities** | **🌟 Let's build something amazing together!**
+**Open to the right conversations — whether that's building something new or making something better.**
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=arneesh&color=blueviolet&style=flat-square&label=Profile+Views) -->
 
