@@ -68,7 +68,7 @@ const arneesh = {
 
 ## 🤝 What I work on
 
-- Full Stack Engineering — React frontends, Node.js backends, serverless architectures, end-to-end ownership from API design to deployment
+- Full Stack Engineering — React frontends, Node.js/Python backends, serverless architectures, end-to-end ownership from API design to deployment
 - Platform & Infrastructure — building the systems that let engineering teams move fast without breaking things
 - AI/ML Systems — production-grade agentic pipelines, RAG infrastructure, multi-model orchestration
 - Distributed Architecture — high-scale, fault-tolerant systems designed for the long term
