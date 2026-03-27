@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** with a keen interest in building scalable systems and exploring the frontiers of artificial intelligence. Currently diving deep into **Distributed Systems** to enhance my understanding of large-scale architecture.
+I'm a passionate **Full Stack Developer** with a keen interest in building scalable systems and exploring the frontiers of artificial intelligence. I work extensively with LLMs, Retrieval-Augmented Generation (RAG), and agentic workflows, integrating intelligent capabilities into real-world applications. Currently diving deep into **Distributed Systems** to enhance my understanding of large-scale architecture.
 
 ```typescript
 const arneesh = {
