@@ -6,7 +6,7 @@
 
 </div>
 
-## 🚀 About Me
+## About Me
 
 I'm a passionate **Full Stack Developer** with a keen interest in building scalable systems and exploring the frontiers of artificial intelligence. I work extensively with LLMs, Retrieval-Augmented Generation (RAG), and agentic workflows, integrating intelligent capabilities into real-world applications. Currently diving deep into **Distributed Systems** to enhance my understanding of large-scale architecture.
 
@@ -42,7 +42,7 @@ const arneesh = {
 };
 ```
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -66,14 +66,14 @@ const arneesh = {
 
 </div>
 
-## 🤝 What I work on
+## What I work on
 
 - Full Stack Engineering — React frontends, Node.js/Python backends, serverless architectures, end-to-end ownership from API design to deployment
 - Platform & Infrastructure — building the systems that let engineering teams move fast without breaking things
 - AI/ML Systems — production-grade agentic pipelines, RAG infrastructure, multi-model orchestration
 - Distributed Architecture — high-scale, fault-tolerant systems designed for the long term
 
-## 📝 Latest Blog Posts
+## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 Check out my thoughts and tutorials on [Medium](https://medium.com/@arneeshaima) where I share insights about:
@@ -94,7 +94,7 @@ Check out my thoughts and tutorials on [Medium](https://medium.com/@arneeshaima)
 
 </div> -->
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
