@@ -1,4 +1,4 @@
-# Hi there, I'm Arneesh 👋
+# Hi there, I'm Arneesh
 
 <div align="center">
   
