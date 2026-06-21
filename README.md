@@ -1,4 +1,4 @@
-# Hi there, I'm Arneesh
+# Hey there, I'm Arneesh
 
 <div align="center">
   
@@ -68,10 +68,10 @@ const arneesh = {
 
 ## What I work on
 
-- Full Stack Engineering — React frontends, Node.js/Python backends, serverless architectures, end-to-end ownership from API design to deployment
-- Platform & Infrastructure — building the systems that let engineering teams move fast without breaking things
-- AI/ML Systems — production-grade agentic pipelines, RAG infrastructure, multi-model orchestration
-- Distributed Architecture — high-scale, fault-tolerant systems designed for the long term
+- Full Stack Engineering: React frontends, Node.js/Python backends, serverless architectures, end-to-end ownership from API design to deployment
+- Platform & Infrastructure: building the systems that let engineering teams move fast without breaking things
+- AI/ML Systems: production-grade agentic pipelines, RAG infrastructure, multi-model orchestration
+- Distributed Architecture: high-scale, fault-tolerant systems designed for the long term
 
 ## Latest Blog Posts
 
@@ -108,8 +108,7 @@ Check out my thoughts and tutorials on [Medium](https://medium.com/@arneeshaima)
 
 <div align="center">
   
-**Open to the right conversations — whether that's building something new or making something better.**
+**Open to the right conversations, whether that's building something new or making something better.**
 
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=arneesh&color=blueviolet&style=flat-square&label=Profile+Views) -->
 
 </div>
