@@ -17,7 +17,7 @@
 
 ### About me
 
-Serial Founding Engineer. Built and worked at multiple fast faced startups.
+Serial Founding Engineer. Built and worked at multiple fast paced startups.
 
 I build products from scratch, full stack, AI-native, production-grade. I thrive in high pressure environments. Fast paced environments is where I work best in.
 
