@@ -66,14 +66,14 @@ const arneesh = {
 <tr>
 <td width="33%" valign="top">
 
-**🤖 AI Systems**
+**AI Systems**
 
 Production RAG pipelines, multi-agent orchestration, LLM fine-tuning with LoRA / QLoRA / PEFT, conversational agents, semantic search, and eval frameworks.
 
 </td>
 <td width="33%" valign="top">
 
-**⚡ Full Stack Products**
+**Full Stack Products**
 
 End-to-end ownership from DB schema to deployed UI. React frontends, Node.js / Python backends, serverless infra, payments, webhooks, integrations.
 
