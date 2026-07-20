@@ -146,7 +146,7 @@ Multi-tenant SaaS, Kubernetes clusters, distributed data pipelines, Elasticsearc
 
 ## Writing
 
-I write about AI engineering, system design, and building products on [Medium](https://medium.com/@arneeshaima). I also write technical blogs and content for companies.
+I write about AI engineering, system design, and building products on [Medium](https://medium.com/@arneeshaima), [Turbomem](https://blog.turbomem.dev). I also write technical blogs and content for companies.
 
 ---
 
