@@ -130,7 +130,7 @@ Multi-tenant SaaS, Kubernetes clusters, distributed data pipelines, Elasticsearc
 
 ---
 
-## Stats
+<!-- ## Stats
 
 <div align="center">
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arneesh&layout=compact&theme=tokyonight&hide_border=true" />
@@ -142,7 +142,7 @@ Multi-tenant SaaS, Kubernetes clusters, distributed data pipelines, Elasticsearc
 
 </div>
 
----
+--- -->
 
 ## Writing
 
