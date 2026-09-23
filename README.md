@@ -1,15 +1,15 @@
 <div align="center">
 
-```
+<!-- ```
  █████╗ ██████╗ ███╗   ██╗███████╗███████╗███████╗██╗  ██╗
 ██╔══██╗██╔══██╗████╗  ██║██╔════╝██╔════╝██╔════╝██║  ██║
 ███████║██████╔╝██╔██╗ ██║█████╗  █████╗  ███████╗███████║
 ██╔══██║██╔══██╗██║╚██╗██║██╔══╝  ██╔══╝  ╚════██║██╔══██║
 ██║  ██║██║  ██║██║ ╚████║███████╗███████╗███████║██║  ██║
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝
-```
+``` -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Founding+Engineer+·+3x+Startups+;Full+Stack+%2B+AI+Native+Developer;LLMs+·+Agents+·+RAG+·+Distributed+Systems;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Staff+Engineer+%7C+7%2B+Years;Founding+Engineer+at+3+Startups;Full+Stack+%26+Distributed+Systems;Agentic+Systems+%26+RAG)](https://git.io/typing-svg)
 
 </div>
 
