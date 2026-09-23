@@ -17,12 +17,11 @@
 
 ### About me
 
-Serial Founding Engineer. Built and worked at multiple fast paced startups.
+Founding engineer, three startups in. I build products from zero to scale. Architecture, infra, and everything in between.
 
-I build products from scratch, full stack, AI-native, production-grade. I thrive in high pressure environments. Fast paced environments is where I work best in.
+I work best under pressure, shipping fast without losing sight of what it takes to hold up at scale.
 
-- &nbsp; Currently deep in **agentic systems, MCP, and fine-tuning**
-- &nbsp; Building at the intersection of **AI + real products**
+Currently working on agentic systems, MCP, and model fine-tuning.
 
 <br clear="right"/>
 
@@ -38,9 +37,9 @@ const arneesh = {
   },
 
   aiAndLLMs: {
-    techniques:    ["RAG", "LLM Fine-Tuning", "LoRA", "QLoRA", "PEFT",
+    techniques:    ["Agentic AI", "Agent Harness Design", "Multi-Agent Orchestration", "RAG", "LLM Fine-Tuning", "LoRA", "QLoRA", "PEFT",
                     "Prompt Engineering", "NER", "Semantic Search",
-                    "Embeddings", "Multimodal AI", "Eval Pipelines"],
+                    "Embeddings", "Multimodal AI", "Eval Pipelines", "LLM Evaluation"],
     frameworks:    ["LangChain", "LangGraph", "LlamaIndex", "LangSmith",
                     "Hugging Face", "Vertex AI", "Ollama", "vLLM"],
     agents:        ["OpenAI Agents", "CrewAI", "AutoGen", "MCP"],
@@ -53,7 +52,7 @@ const arneesh = {
     devops:    ["Kubernetes", "Docker", "CI/CD", "Serverless", "Pub/Sub", "Kafka"],
     databases: ["PostgreSQL", "BigQuery", "MongoDB", "Redis",
                 "Elasticsearch", "Firestore", "ChromaDB", "Pinecone"],
-    tooling:   ["Cursor", "Claude Code", "Turborepo", "Monorepo"],
+    tooling:   ["Cursor", "Claude Code", "Turborepo"],
   }
 };
 ```
