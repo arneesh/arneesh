@@ -5,7 +5,7 @@
 **Staff / Principal Engineer** · **CTO** · **Founding Engineer**
 
 I build AI-native products and the engineering orgs behind them.<br>
-Seven years, four startups, twice as CTO - architecture, teams, and production systems from first commit to commercial scale.
+7 years+ experience. Twice as CTO - architecture, teams, and production systems from first commit to commercial scale.
 
 [Website](https://arneeshaima.com) · [LinkedIn](https://www.linkedin.com/in/arneesh-aima-49b516116/) · [Medium](https://medium.com/@arneeshaima) · [X](https://twitter.com/Arneesh) · [Email](mailto:arneeshaima@gmail.com)
 
