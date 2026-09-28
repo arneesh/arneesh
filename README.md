@@ -57,7 +57,6 @@ Competitive intelligence SaaS for retailers including John Lewis, Net-a-Porter, 
 | **[QLoRA Fine-Tuning Framework](https://github.com/arneesh/qlora-finetuning-framework)** | Config-driven pipeline for open-source LLMs: data prep → QLoRA training → Hub push. Hugging Face, PEFT, TRL, WandB. |
 | **[OpenAI Fine-Tuning Framework](https://github.com/arneesh/openai-finetuning-framework)** | End-to-end OpenAI chat-model fine-tuning: prep, upload, train, evaluate. Pluggable formatters and metrics. |
 | **[Agent Protocols](https://github.com/arneesh/agent-protocols)** | Claude Code plugin / agent harness. Specs, tests, reviews, and deployment gates so AI-generated code ships with discipline. |
-| **[turborepo-vue-starter](https://github.com/arneesh/turborepo-vue-starter)** | Production-shaped Turborepo + Vue 3 monorepo starter. |
 
 More on [arneeshaima.com](https://arneeshaima.com) and [ai.arneeshaima.com](https://ai.arneeshaima.com).
 
