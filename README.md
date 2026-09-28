@@ -1,166 +1,96 @@
 <div align="center">
 
-<!-- ```
- █████╗ ██████╗ ███╗   ██╗███████╗███████╗███████╗██╗  ██╗
-██╔══██╗██╔══██╗████╗  ██║██╔════╝██╔════╝██╔════╝██║  ██║
-███████║██████╔╝██╔██╗ ██║█████╗  █████╗  ███████╗███████║
-██╔══██║██╔══██╗██║╚██╗██║██╔══╝  ██╔══╝  ╚════██║██╔══██║
-██║  ██║██║  ██║██║ ╚████║███████╗███████╗███████║██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝
-``` -->
+# Arneesh Aima
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Staff+Engineer+%7C+7%2B+Years;Founding+Engineer+at+3+Startups;Full+Stack+%26+Distributed+Systems;Agentic+Systems+%26+RAG)](https://git.io/typing-svg)
+**Staff / Principal Engineer** · **CTO** · **Founding Engineer**
+
+I build AI-native products and the engineering orgs behind them.<br>
+Seven years, four startups, twice as CTO - architecture, teams, and production systems from first commit to commercial scale.
+
+[Website](https://arneeshaima.com) · [LinkedIn](https://www.linkedin.com/in/arneesh-aima-49b516116/) · [Medium](https://medium.com/@arneeshaima) · [X](https://twitter.com/Arneesh) · [Email](mailto:arneeshaima@gmail.com)
 
 </div>
 
 ---
 
-### About me
+### Now
 
-Founding engineer, three startups in. I build products from zero to scale. Architecture, infra, and everything in between.
+**CTO at Zenero.** Climate-tech SaaS used by 50+ brands for SKU-level carbon accounting, Digital Product Passports, and ISO 14067 / GHG Protocol / EU ESPR reporting. Sole technical founder - product, architecture, and delivery.
 
-I work best under pressure, shipping fast without losing sight of what it takes to hold up at scale.
-
-Currently working on agentic systems, MCP, and model fine-tuning.
-
-<br clear="right"/>
+Also shipping **[TurboMem](https://turbomem.dev)** - embedded, local-first agent memory for TypeScript. No sidecar, no separate memory server.
 
 ---
 
-```typescript
-const arneesh = {
-  languages:  ["TypeScript", "Python", "JavaScript", "Swift"],
+### How I work
 
-  fullStack: {
-    frontend:  ["React", "Next.js", "Vue", "Tailwind", "SwiftUI"],
-    backend:   ["Node.js", "Express", "FastAPI", "GraphQL", "Pydantic"],
-  },
+I am an engineering leader who still writes the critical path. I own the stack end to end: data model, APIs, infra, UI, and the customer conversation that decides what gets built.
 
-  aiAndLLMs: {
-    techniques:    ["Agentic AI", "Agent Harness Design", "Multi-Agent Orchestration", "RAG", "LLM Fine-Tuning", "LoRA", "QLoRA", "PEFT",
-                    "Prompt Engineering", "NER", "Semantic Search",
-                    "Embeddings", "Multimodal AI", "Eval Pipelines", "LLM Evaluation"],
-    frameworks:    ["LangChain", "LangGraph", "LlamaIndex", "LangSmith",
-                    "Hugging Face", "Vertex AI", "Ollama", "vLLM"],
-    agents:        ["OpenAI Agents", "CrewAI", "AutoGen", "MCP"],
-    models:        ["GPT-4o", "Claude 3.5", "Llama 3", "Gemini", "Mistral"],
-    vectorDbs:     ["ChromaDB", "Pinecone", "pgvector"],
-  },
+I have hired and led distributed teams, sat in discovery and enterprise sales calls, and turned commercial constraints into roadmaps. The work I care about holds up at scale - multi-tenant SaaS, event-driven systems, billing, search, and AI that is actually in production.
 
-  infrastructure: {
-    cloud:     ["GCP", "AWS"],
-    devops:    ["Kubernetes", "Docker", "CI/CD", "Serverless", "Pub/Sub", "Kafka"],
-    databases: ["PostgreSQL", "BigQuery", "MongoDB", "Redis",
-                "Elasticsearch", "Firestore", "ChromaDB", "Pinecone"],
-    tooling:   ["Cursor", "Claude Code", "Turborepo"],
-  }
-};
-```
+Current focus: agentic systems, MCP, RAG, and LLM fine-tuning - with the same bar I apply to the rest of the platform.
 
 ---
 
-## What I actually build
+### Selected work
 
-<table>
-<tr>
-<td width="33%" valign="top">
+**CTO, Zenero** · 2026 - present  
+Built the platform from scratch. Multi-tenant ingestion and carbon accounting with SKU-level precision, Shopify / Etsy / supplier / API integrations, and automated, QR-linked Digital Product Passports for brands across the EU, Americas, and APAC.
 
-**AI Systems**
+**CTO, The Scene** · 2023 - 2026  
+First technical hire. Took the product from zero to scale on GCP (Cloud Functions, Pub/Sub, BigQuery). Spotify-inspired recommendation engine (ANN + collaborative filtering), OpenAI-agent conversational discovery, and a restaurant partner portal. Recruited and led a globally distributed engineering team. Partnered with the founder on BD and revenue-aligned roadmap.
 
-Production RAG pipelines, multi-agent orchestration, LLM fine-tuning with LoRA / QLoRA / PEFT, conversational agents, semantic search, and eval frameworks.
+**Lead Engineer, Scribeless** · 2020 - 2022  
+Re-architected the backend from Firebase to SQL + BigQuery. Designed a Stripe billing engine (subscriptions, metered usage, multi-tier pricing) and a BigQuery / Dataflow ledger for analytics and audit. Shipped an embeddable merchant widget and integrations with Shopify, HubSpot, ShipStation, and Zapier. Technical lead in enterprise sales and customer integrations.
 
-</td>
-<td width="33%" valign="top">
-
-**Full Stack Products**
-
-End-to-end ownership from DB schema to deployed UI. React frontends, Node.js / Python backends, serverless infra, payments, webhooks, integrations.
-
-</td>
-<td width="33%" valign="top">
-
-**Platform & Infra**
-
-Multi-tenant SaaS, Kubernetes clusters, distributed data pipelines, Elasticsearch at scale, real-time systems, billing engines built for enterprise SLAs.
-
-</td>
-</tr>
-</table>
+**Head of Product & Lead Engineer, Greendeck** · 2019 - 2020  
+<sub>Acquired by Quantive</sub>  
+Competitive intelligence SaaS for retailers including John Lewis, Net-a-Porter, and Puma. Kubernetes microservices, Elasticsearch at sub-100ms across millions of SKUs, and BERT-based product matching. Hired engineers, ran the product loop with enterprise clients, and shipped against SLA commitments.
 
 ---
 
-## Tech Stack
+### Open source
 
-<div align="center">
+| Project | What it is |
+| --- | --- |
+| **[TurboMem](https://github.com/turbomem/turbomem)** | Embedded agent memory for TypeScript. In-process fact extraction, semantic search, and scoped persistence (PGlite, sqlite-vec, Upstash, Pinecone). Adapters for Mastra, Vercel AI SDK, and Claude Desktop via MCP. [`npm`](https://www.npmjs.com/package/turbomem) · [docs](https://docs.turbomem.dev) |
+| **[ContextCrunch](https://github.com/arneesh/contextcrunch)** | Compress long-form logs and text into schema-valid JSON capsules for agents - cited evidence, large token reduction, optional LLM refinement. |
+| **[QLoRA Fine-Tuning Framework](https://github.com/arneesh/qlora-finetuning-framework)** | Config-driven pipeline for open-source LLMs: data prep → QLoRA training → Hub push. Hugging Face, PEFT, TRL, WandB. |
+| **[OpenAI Fine-Tuning Framework](https://github.com/arneesh/openai-finetuning-framework)** | End-to-end OpenAI chat-model fine-tuning: prep, upload, train, evaluate. Pluggable formatters and metrics. |
+| **[Agent Protocols](https://github.com/arneesh/agent-protocols)** | Claude Code plugin / agent harness. Specs, tests, reviews, and deployment gates so AI-generated code ships with discipline. |
+| **[turborepo-vue-starter](https://github.com/arneesh/turborepo-vue-starter)** | Production-shaped Turborepo + Vue 3 monorepo starter. |
 
-**Languages & Frameworks**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
-**AI & ML**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-
-**Databases & Search**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-**Cloud & DevOps**
-
-![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-</div>
+More on [arneeshaima.com](https://arneeshaima.com) and [ai.arneeshaima.com](https://ai.arneeshaima.com).
 
 ---
 
-<!-- ## Stats
+### Stack
 
-<div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arneesh&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arneesh&theme=tokyonight&hide_border=true)
-
-</div>
-
---- -->
-
-## Writing
-
-I write about AI engineering, system design, and building products on [Medium](https://medium.com/@arneeshaima), [Turbomem](https://blog.turbomem.dev). I also write technical blogs and content for companies.
+| | |
+| --- | --- |
+| **Languages** | TypeScript, Python, JavaScript, Swift |
+| **Product** | React, Next.js, Vue, Node.js, FastAPI, GraphQL, Turborepo |
+| **Agents & AI** | MCP, agent harnesses, tool calling, RAG, context engineering, agent memory, LoRA / QLoRA / PEFT, LLM evals (LangSmith, Ragas) |
+| **AI runtime** | OpenAI Agents, Claude API, LangGraph, Hugging Face, vLLM, Vercel AI SDK, Vertex AI |
+| **Retrieval & data** | PostgreSQL, pgvector, HNSW / ANN, Elasticsearch, BigQuery, Redis, Pinecone |
+| **Platform** | GCP, AWS, Kubernetes, event-driven (Pub/Sub, Kafka), serverless, CI/CD |
+| **SaaS & reliability** | Multi-tenant + RBAC, Stripe billing, webhooks, observability (Prometheus, Grafana, LangSmith) |
 
 ---
 
-## Connect
+### Writing
 
-<div align="center">
+I write about AI engineering, system design, and shipping products.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arneesh-aima-49b516116/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@arneeshaima)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Arneesh)
-
-</div>
+- [Medium](https://medium.com/@arneeshaima)
+- [TurboMem blog](https://blog.turbomem.dev)
+- [Personal site](https://arneeshaima.com)
 
 ---
 
 <div align="center">
-<sub>Open to the right conversations, building something new or making something better.</sub>
+
+[arneeshaima.com](https://arneeshaima.com) · [LinkedIn](https://www.linkedin.com/in/arneesh-aima-49b516116/) · [Medium](https://medium.com/@arneeshaima) · [X](https://twitter.com/Arneesh)
+
+<sub>Open to the right conversations - staff / principal roles, founding engineering, or building something new.</sub>
+
 </div>
