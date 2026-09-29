@@ -31,7 +31,7 @@ Current focus: agentic systems, MCP, RAG, and LLM fine-tuning - with the same ba
 
 ---
 
-### Selected work
+### Experience
 
 **CTO, Zenero** · 2026 - present  
 Built the platform from scratch. Multi-tenant ingestion and carbon accounting with SKU-level precision, Shopify / Etsy / supplier / API integrations, and automated, QR-linked Digital Product Passports for brands across the EU, Americas, and APAC.
