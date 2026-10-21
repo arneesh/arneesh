@@ -2,7 +2,7 @@
 
 # Arneesh Aima
 
-**Staff Software Engineer** · **CTO**
+**Staff-level Software Engineer** · **2x CTO**
 
 I build AI-native products and the engineering orgs behind them.<br>
 7 years+ experience. Twice as CTO. Architecture, teams, and production systems from first commit to commercial scale.
